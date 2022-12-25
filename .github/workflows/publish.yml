@@ -28,10 +28,6 @@ jobs:
       - name: Install dependencies 🔧
         run: npm ci
 
-      # Npm Run Check
-      - name: Run Check All
-        run: npm run check:all
-
       # Run Semantic Release
       - name: Semantic Release
         run: |
