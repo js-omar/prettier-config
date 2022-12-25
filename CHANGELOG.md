@@ -1,3 +1,9 @@
+## [1.0.2](https://github.com/js-omar/prettier-config/compare/v1.0.1...v1.0.2) (2022-12-25)
+
+### Bug Fixes
+
+- publish package to npm ([56f722b](https://github.com/js-omar/prettier-config/commit/56f722bc329337a9b212cc3ace774d4d11d0e0b2))
+
 ## [1.0.1](https://github.com/js-omar/prettier-config/compare/v1.0.0...v1.0.1) (2022-12-25)
 
 ### Bug Fixes
