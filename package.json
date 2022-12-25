@@ -1,7 +1,7 @@
 {
   "name": "@js-omar/prettier-config",
   "displayName": "Prettier configurations",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "shared prettier configurations",
   "keywords": [
     "prettier"
