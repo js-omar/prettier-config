@@ -1,3 +1,9 @@
+## [1.0.4](https://github.com/js-omar/prettier-config/compare/v1.0.3...v1.0.4) (2022-12-27)
+
+### Bug Fixes
+
+- add css to overrides ([55bda11](https://github.com/js-omar/prettier-config/commit/55bda1157338e8793cadebf18b7fbc8fc085ba63))
+
 ## [1.0.3](https://github.com/js-omar/prettier-config/compare/v1.0.2...v1.0.3) (2022-12-25)
 
 ### Bug Fixes
