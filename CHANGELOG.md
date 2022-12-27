@@ -1,3 +1,9 @@
+## [1.0.5](https://github.com/js-omar/prettier-config/compare/v1.0.4...v1.0.5) (2022-12-27)
+
+### Bug Fixes
+
+- remove some words from cspell config ([7762374](https://github.com/js-omar/prettier-config/commit/7762374f2b9dc2b1116e7eec3ba9e9d5b1cee068))
+
 ## [1.0.4](https://github.com/js-omar/prettier-config/compare/v1.0.3...v1.0.4) (2022-12-27)
 
 ### Bug Fixes
