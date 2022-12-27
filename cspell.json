@@ -4,12 +4,10 @@
   "words": [
     "commitlint",
     "Elsayed",
-    "parens",
     "postversion",
     "prebuild",
     "preversion",
     "eslint",
-    "config",
     "sonarjs"
   ],
   "language": "en",
