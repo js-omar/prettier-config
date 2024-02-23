@@ -5,7 +5,13 @@ module.exports = {
     { files: ["**/*.{html,scss,css}"], options: { printWidth: 500 } },
     { files: ["**/*.html"], options: { parser: "html" } },
     {
-      files: ["**/*.modal.html", "**/*.page.html", "**/*.component.html"],
+      files: [
+        "**/*.dialog.html",
+        "**/*.section.html",
+        "**/*.component.html",
+        "**/*.modal.html",
+        "**/*.page.html",
+      ],
       options: { parser: "angular" },
     },
   ],
