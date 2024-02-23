@@ -1,3 +1,9 @@
+# [1.1.0](https://github.com/js-omar/prettier-config/compare/v1.0.5...v1.1.0) (2024-02-23)
+
+### Features
+
+- add new angular components conventions ([bc320c6](https://github.com/js-omar/prettier-config/commit/bc320c60c1dda671f5a9d5ba4ff53202a422b418))
+
 ## [1.0.5](https://github.com/js-omar/prettier-config/compare/v1.0.4...v1.0.5) (2022-12-27)
 
 ### Bug Fixes
